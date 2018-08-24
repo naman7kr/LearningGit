@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main(){
-	printf("Hello World, This is Naman\n");
-	printf("How you Doing");
+	int t;
+	scanf("%d",&t);
+	printf("How you Doing %d",t);
 	return 0;
 }
