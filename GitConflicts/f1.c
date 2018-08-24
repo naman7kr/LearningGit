@@ -3,7 +3,6 @@
 int main(){
 	int t;
 	scanf("%d",&t);
-	printf("How you Doing Naman%d",t);
-	printf("How you Doing Stan%d",t);
+	printf("How you Doing Naman and Stan%d",t);
 	return 0;
 }
